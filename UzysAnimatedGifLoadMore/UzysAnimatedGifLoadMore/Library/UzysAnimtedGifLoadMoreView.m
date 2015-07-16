@@ -291,10 +291,10 @@
         case UZYSGIFLoadMoreStateLoading: //wait until stopIndicatorAnimation (4)
             break;
         case UZYSGIFLoadMoreStateCanFinish: //(5)
-            if(yOffset < 0.01f  && yOffset > -0.01f )
-            {
+//            if(yOffset < 0.01f  && yOffset > -0.01f )
+//            {
                 self.state = UZYSGIFLoadMoreStateNone;
-            }
+//            }
             break;
         default:
             break;

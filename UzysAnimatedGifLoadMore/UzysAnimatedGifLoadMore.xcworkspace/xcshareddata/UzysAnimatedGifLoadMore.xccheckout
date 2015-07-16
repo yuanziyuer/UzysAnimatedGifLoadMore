@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09BC5423-536F-41F3-B2E2-8B3A7D91C5EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UzysAnimatedGifLoadMore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>902A674DB606E46528A29F31D090B4751D1DA40B</key>
+		<string>https://github.com/yuanziyuer/UzysAnimatedGifLoadMore.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UzysAnimatedGifLoadMore/UzysAnimatedGifLoadMore.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>902A674DB606E46528A29F31D090B4751D1DA40B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yuanziyuer/UzysAnimatedGifLoadMore.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>902A674DB606E46528A29F31D090B4751D1DA40B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>902A674DB606E46528A29F31D090B4751D1DA40B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UzysAnimatedGifLoadMore</string>
+		</dict>
+	</array>
+</dict>
+</plist>
